@@ -1,0 +1,9 @@
+{
+  "skill_dir": "/absolute/path/to/telegram-chat-control",
+  "account_id": "YOUR_TELEGRAM_ACCOUNT_ID",
+  "output_dir": "../memory/chats",
+  "timezone": "Europe/Moscow",
+  "group_ids": [],
+  "exclude_ids": [],
+  "proxy": ""
+}
